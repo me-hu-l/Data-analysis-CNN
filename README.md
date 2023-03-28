@@ -13,6 +13,6 @@ coloured irregularly shaped areas in the images) implicated in various diseases.
 
 The CNN model predicts whether the stress granules are present in an image or not.
 
-Link to the dataset:- 
+Link to the dataset:- https://drive.google.com/drive/folders/1MfoCS3e2z6B3t2Q-cGPgbkGAgXFNogsW?usp=sharing
 
 Link to the presentation:- https://docs.google.com/presentation/d/1MDltsqoifxQlrdpqAQ36Ra9MQXbKnlnyJmFF08-WF9k/edit?usp=sharing
